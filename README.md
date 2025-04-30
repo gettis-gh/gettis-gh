@@ -9,6 +9,7 @@
 
 ### 👨‍💻 About Me
 
+- 🙃 Starter. Not so much to showcase
 - 🔭 Currently working on: **Getti's TicTac** *(private project)*
 - 🌱 Currently learning: **WebSocket, Project Structure, CSS**
 - ⚡ Fun fact: *I hate myself (I'm working on changing that) 🫠*
