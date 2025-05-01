@@ -14,7 +14,7 @@
   - **Getti's TicTac** *(private project)*
   - **Stellar Chat** *(public project) (inactive at the moment)*
   - **Stellar Panel** *(private project)*
-* What's Stellar? It's my more serious-profesional subdomain
+* What's Stellar? It's the more serious and professional part of my projects.
 * 🌱 Currently learning: **WebSocket, Project Structure, CSS**
 * ⚡ Fun fact: *I hate myself (I'm working on changing that) 🫠*
 
