@@ -68,15 +68,5 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gettis-gh&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gettis-gh&layout=compact&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gettis-gh&theme=tokyonight" width="96%"/>
-</div>
-
----
-
 ### 🧠 Quote of the day
 > *"The best way to predict the future is to invent it."* – Alan Kay
