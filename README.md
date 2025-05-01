@@ -11,9 +11,9 @@
 
 * 🙃 Starter. Not so much to showcase
 * 🔭 Currently working on:
-- **Getti's TicTac** *(private project)*
-- **Stellar Chat*** *(public project) (inactive at the moment)*
-- **Stellar Panel** *(private project)*
+ - **Getti's TicTac** *(private project)*
+ - **Stellar Chat*** *(public project) (inactive at the moment)*
+ - **Stellar Panel** *(private project)*
 * 🌱 Currently learning: **WebSocket, Project Structure, CSS**
 * ⚡ Fun fact: *I hate myself (I'm working on changing that) 🫠*
 
