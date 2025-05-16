@@ -9,6 +9,7 @@
 
 ### 👨‍💻 About Me
 
+* I'm just starting, but I'd rather make mistakes on my own path than succeed on yours.
 * 🙃 Starter. Not so much to showcase
 * 🔭 Currently working on:
   - **Getti's TicTac** *(private project)*
@@ -16,7 +17,6 @@
   - **Stellar Chat** *(public project) (inactive at the moment)*
 * What's Stellar? It's the more serious and professional part of my projects.
 * 🌱 Currently learning: **WebSocket, Project Structure, CSS**
-* I'm just starting, but I'd rather make mistakes on my own path than succeed on yours.
 
 ---
 
