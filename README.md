@@ -1,5 +1,5 @@
 <h2 align="center">Hi there! I'm Gettis 👋</h2>
-<h4 align="center">Another software developer with big dreams 🚀</h4>
+<h4 align="center">I'm not just a developer, I'm an artist</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gettis-gh&label=Profile%20views&color=0e75b6&style=flat" alt="gettis-gh" />
