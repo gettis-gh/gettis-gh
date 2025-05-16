@@ -16,7 +16,7 @@
   - **Stellar Chat** *(public project) (inactive at the moment)*
 * What's Stellar? It's the more serious and professional part of my projects.
 * 🌱 Currently learning: **WebSocket, Project Structure, CSS**
-* Estoy empezando, pero prefiero tropezar en mi ruta que tener éxito recorriendo la tuya.*
+* I'm just starting, but I'd rather make mistakes on my own path than succeed on yours.
 
 ---
 
