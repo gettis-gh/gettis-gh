@@ -8,17 +8,17 @@
 ---
 
 ### 👨‍💻 About Me
-
+ 
 * 🙃 Starter. Not so much to showcase
 * Looking for teams and communities to be in.
 * Hope to make friends I can code with.
 * I'm just starting, but I'd rather make mistakes on my own path than succeed on yours.
 * 🔭 Currently working on:
-  - **Getti's TicTac** *(private project)*
-  - **Getti's JS Guide** *(public project)* [Check the page](https://gettis-gh.github.io/gettis-js-guide/)
-  - **Getti's Language DevKit** *(public project)* [Check the repo](https://github.com/gettis-gh/GettisPLDK)
-  - **Stellar Panel** *(private project)*
-  - **Stellar Chat** *(public project) (inactive at the moment)*
+  - **Getti's TicTac** – An experimental game inspired in TicTacToe but reimagined/ *(private project)*
+  - **Getti's JS Guide** – My own Javascript Course based on my experience. *(public project)* [Check the page](https://gettis-gh.github.io/gettis-js-guide/)
+  - **Getti's Language DevKit** – The DevKit of my experimental language. *(public project)* [Check the repo](https://github.com/gettis-gh/GettisPLDK)
+  - **Stellar Panel** – An intutive bussiness managing tool. *(private project)*
+  - **Stellar Chat** – An experimental chat exploring new ways to communicate. *(public project) (inactive at the moment)*
 * What's Stellar? It's the more serious and professional part of my projects.
 * 🌱 Currently learning: **WebSocket, Project Structure, CSS, Markdown, Github Pages**
 * I see programming as an art.
