@@ -18,8 +18,6 @@
 
 * 🎨 Fullstack JS/TS developer with a creative and experimental mindset, strong in frontend, and a functional, handmade approach to backend.
 
-> I'm making my own path, learning with every step and enjoying the process.
-
 * 🔭 Currently working on:
   - **Getti's TicTac** – An experimental game inspired by TicTacToe. *(private project)*
   - **Getti's JS Guide** – My personal JavaScript course based on my experience. *(public project)* [Check the page](https://gettis-gh.github.io/gettis-js-guide/)
