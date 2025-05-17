@@ -58,7 +58,7 @@
   * General Purpose:
     - Python
     - Julia
-    - Java
+    - Java (learning)
     - JavaScript
     - TypeScript
   * Web Development:
