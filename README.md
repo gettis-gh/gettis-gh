@@ -13,7 +13,7 @@
 * 🙃 Starter. Not so much to showcase
 * 🔭 Currently working on:
   - **Getti's TicTac** *(private project)*
-  - **Getti's JS Guide** *(public project)* [Link to the page](https://gettis-gh.github.io/gettis-js-guide/)
+  - **Getti's JS Guide** *(public project)* [Chech the page](https://gettis-gh.github.io/gettis-js-guide/)
   - **Stellar Panel** *(private project)*
   - **Stellar Chat** *(public project) (inactive at the moment)*
 * What's Stellar? It's the more serious and professional part of my projects.
