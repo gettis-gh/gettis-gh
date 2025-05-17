@@ -42,7 +42,7 @@ Here’s how I see and live my path in software development:
   - 🎮 Game Development (this is where I started)
 
 - **Focus and Passion:**
-  - WebDev as my main creative and professional path
+  - WebDev as my main professional path
   - Building innovative software — useful, usable, and unique
 
 - **My Approach:**
