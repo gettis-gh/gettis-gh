@@ -61,6 +61,33 @@ Here’s how I see and live my path in software development:
 
 ---
 
+### 🚀 My Main Stack
+
+I'm building my path as a **Fullstack JavaScript/TypeScript developer**, with a handcrafted and creative mindset. Here's the core tech I focus on:
+
+#### 🔹 Frontend
+- HTML5, CSS3, SASS  
+- JavaScript / TypeScript  
+- React (main), Vue.js (exploring)
+
+#### 🔹 Backend
+- Node.js with Express.js and NestJS  
+- REST APIs with modular structure  
+- Real-time systems using WebSocket *(in progress)*
+
+#### 🔹 Database & Storage
+- SQLite for simplicity and speed  
+- Redis for real-time features and caching
+
+#### 🔹 Tools & Flow
+- Git for version control  
+- GitHub Pages for quick deployments  
+- Puppeteer & Selenium for automation and testing
+
+> My stack is not just a set of tools — it's how I bring my ideas to life through simplicity, expression, and structure.
+
+---
+
 ### 🛠️ Languages & Tools
 
 * Languages:
