@@ -1,7 +1,7 @@
 <h2 align="center">Hi there! I'm Gettis 👋</h2>
 <h4 align="center">I'm not just a developer, I'm an artist</h4>
 <div align="center" style="text-align: center; font-style: italic; color: gray; max-width: 600px; margin: 20px auto;">
-  since <strong>January 2025</strong> | Five months in this amazing world!
+  since <strong>January 2025</strong> | Building my journey in this amazing world!
 </div>
 
 <p align="center">
@@ -12,23 +12,23 @@
 
 ### 👨‍💻 About Me
  
-* 🙃 Still starting out — not much to show yet, but building every day.
+* 🚀 Just getting started — learning and building something new every day.
 * Looking to join teams and communities.
-* Hope to make friends I can code with.
+* Hoping to make friends to code and create with.
 
-* 🎨 Fullstack JS/TS developer with a creative-experimental mindset, strong in frontend and with a functional, handcrafted approach to backend.
-  
-> I'm just starting, but I'd rather make mistakes on my own path than succeed on yours.
+* 🎨 Fullstack JS/TS developer with a creative and experimental mindset, strong in frontend, and a functional, handmade approach to backend.
+
+> I'm making my own path, learning with every step and enjoying the process.
 
 * 🔭 Currently working on:
   - **Getti's TicTac** – An experimental game inspired by TicTacToe. *(private project)*
-  - **Getti's JS Guide** – My own JavaScript course based on my experience. *(public project)* [Check the page](https://gettis-gh.github.io/gettis-js-guide/)
-  - **Getti's Language DevKit** – The DevKit of my own experimental programming language. *(public project)* [Check the repo](https://github.com/gettis-gh/GettisPLDK)
-  - **Stellar Panel** – An intuitive business managing tool. *(private project)*
-  - **Stellar Chat** – An experimental chat exploring new ways to communicate. *(public project) (inactive at the moment)*
+  - **Getti's JS Guide** – My personal JavaScript course based on my experience. *(public project)* [Check the page](https://gettis-gh.github.io/gettis-js-guide/)
+  - **Getti's Language DevKit** – The DevKit for my own experimental programming language. *(public project)* [Check the repo](https://github.com/gettis-gh/GettisPLDK)
+  - **Stellar Panel** – An easy-to-use business management tool. *(private project)*
+  - **Stellar Chat** – An experimental chat exploring new ways to communicate. *(public project)* (paused for now — planning to improve it soon)
 
-* What's Stellar? It's the more serious and professional part of my projects.
-* 🌱 Currently learning: **WebSocket, Project Structure, CSS, Markdown, GitHub Pages**
+* What’s Stellar? It’s the more serious and professional side of my projects.
+* 🌱 Currently learning: **WebSocket, project structure, CSS, Markdown, GitHub Pages**
 
 > I see programming as an art.
 
@@ -39,31 +39,31 @@
 Here’s how I see and live my path in software development:
 
 - **Main Areas:**
-  - 🌐 Web Development
-  - 🖥️ Desktop Software
-  - 🎮 Game Development (this is where I started)
+  - 🌐 Web development
+  - 🖥️ Desktop software
+  - 🎮 Game development (where I started)
 
-- **Focus and Passion:**
-  - WebDev as my main professional path
-  - Building innovative software — useful, usable, and unique
+- **Focus and passion:**
+  - WebDev as my main career path
+  - Building software that’s useful, easy to use, and unique
 
-- **My Approach:**
-  - 💡 Innovation above imitation
-  - ✍️ Code that is clean, readable, and expressive
-  - 🔧 Modular structure — small, reusable, independent parts
-  - 🚀 Agile mindset — fast iterations, constant learning
+- **My approach:**
+  - 💡 Innovate instead of copy
+  - ✍️ Write clean, clear, and expressive code
+  - 🔧 Use a modular structure — small, reusable, easy-to-understand parts
+  - 🚀 Agile mindset — fast iterations and constant learning
 
 - **Philosophy:**
-  - I believe code is a reflection of thought.
+  - I believe code reflects the thinker.
   - *"Code is as clear as the mind of its writer."*
-  - To me, programming is a form of art —  
+  - To me, programming is a kind of art —  
     every function is a brushstroke, every repo a canvas.
 
 ---
 
 ### 🚀 My Main Stack
 
-I'm building my path as a **Fullstack JavaScript/TypeScript developer**, with a handcrafted and creative mindset. Here's the core tech I focus on:
+I’m building my path as a **Fullstack JavaScript/TypeScript developer** with a handcrafted and creative mindset. Here’s the core tech I focus on:
 
 #### 🔹 Frontend
 - HTML5, CSS3, SASS  
@@ -79,12 +79,12 @@ I'm building my path as a **Fullstack JavaScript/TypeScript developer**, with a 
 - SQLite for simplicity and speed  
 - Redis for real-time features and caching
 
-#### 🔹 Tools & Flow
+#### 🔹 Tools & Workflow
 - Git for version control  
 - GitHub Pages for quick deployments  
 - Puppeteer & Selenium for automation and testing
 
-> My stack is not just a set of tools — it's how I bring my ideas to life through simplicity, expression, and structure.
+> My stack isn’t just a set of tools — it’s how I bring my ideas to life through simplicity, expression, and good structure.
 
 ---
 
@@ -121,12 +121,12 @@ I'm building my path as a **Fullstack JavaScript/TypeScript developer**, with a 
 * DevOps & Tools:
   - Git
 
-* Networking & Real-time Communication:
+* Networking & Real-time:
   - Express
   - WebSocket (learning)
 
 * Experimental Languages:
-  - Getti's Language DevKit (own experimental language)
+  - Getti's Language DevKit (my own experimental language)
 
 ---
 
@@ -152,3 +152,4 @@ I'm building my path as a **Fullstack JavaScript/TypeScript developer**, with a 
 
 ### 🧠 Quote of the day
 > *"The best way to predict the future is to invent it."* – Alan Kay
+
