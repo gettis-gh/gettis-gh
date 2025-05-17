@@ -15,6 +15,8 @@
 * 🙃 Still starting out — not much to show yet, but building every day.
 * Looking to join teams and communities.
 * Hope to make friends I can code with.
+
+* 🎨 Fullstack JS/TS developer with a creative-experimental mindset, strong in frontend and with a functional, handcrafted approach to backend.
   
 > I'm just starting, but I'd rather make mistakes on my own path than succeed on yours.
 
