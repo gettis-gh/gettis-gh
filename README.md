@@ -32,23 +32,30 @@
 
 ---
 
-### 📬 Connect with me:
+### 🌟 My Areas and Likes
 
-* **Code & Projects**  
-  - [CodePen](https://codepen.io/gettis_cp)  
-  - [HackerRank](https://www.hackerrank.com/gettis_hr)  
+Here’s how I see and live my path in software development:
 
-* **Social Media**  
-  - [Twitter](https://twitter.com/gettis_x)  
-  - [Facebook](https://fb.com/gettis_fb)  
-  - [Instagram](https://instagram.com/gettis_ig)  
-  - [YouTube](https://www.youtube.com/c/gettis_yt)  
+- **Main Areas:**
+  - 🌐 Web Development
+  - 🖥️ Desktop Software
+  - 🎮 Game Development (especially for the web, as a creative side interest)
 
-* **Professional**  
-  - [LinkedIn](https://linkedin.com/in/gettis-in)  
+- **Focus and Passion:**
+  - WebDev as my main creative and professional path
+  - Building innovative software — useful, usable, and unique
 
-* **Community & Chat**  
-  - [Discord](https://discord.gg/HsaKkY7V)  
+- **My Approach:**
+  - 💡 Innovation above imitation
+  - ✍️ Code that is clean, readable, and expressive
+  - 🔧 Modular structure — small, reusable, independent parts
+  - 🚀 Agile mindset — fast iterations, constant learning
+
+- **Philosophy:**
+  - I believe code is a reflection of thought.
+  - *"Code is as clear as the mind of its writer."*
+  - To me, programming is a form of art —  
+    every function is a brushstroke, every repo a canvas.
 
 ---
 
@@ -91,6 +98,26 @@
 
 * Experimental Languages:
   - Getti's Language DevKit (own experimental language)
+
+---
+
+### 📬 Connect with me:
+
+* **Code & Projects**  
+  - [CodePen](https://codepen.io/gettis_cp)  
+  - [HackerRank](https://www.hackerrank.com/gettis_hr)  
+
+* **Social Media**  
+  - [Twitter](https://twitter.com/gettis_x)  
+  - [Facebook](https://fb.com/gettis_fb)  
+  - [Instagram](https://instagram.com/gettis_ig)  
+  - [YouTube](https://www.youtube.com/c/gettis_yt)  
+
+* **Professional**  
+  - [LinkedIn](https://linkedin.com/in/gettis-in)  
+
+* **Community & Chat**  
+  - [Discord](https://discord.gg/HsaKkY7V)  
 
 ---
 
