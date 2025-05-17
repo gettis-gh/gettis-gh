@@ -24,7 +24,6 @@
 
 * What's Stellar? It's the more serious and professional part of my projects.
 * 🌱 Currently learning: **WebSocket, Project Structure, CSS, Markdown, Github Pages**
-* I see programming as an art.
 
 > I see programming as an art.
 
