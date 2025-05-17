@@ -1,6 +1,8 @@
 <h2 align="center">Hi there! I'm Gettis 👋</h2>
 <h4 align="center">I'm not just a developer, I'm an artist</h4>
-<blackquote align="center">since **January 2025** | Five months in this amazing world!</blackquote>
+<blockquote style="text-align: center; font-style: italic; color: gray; border-left: 3px solid #ccc; margin: 20px auto; padding-left: 10px; max-width: 600px;">
+  since <strong>January 2025</strong> | Five months in this amazing world!
+</blockquote>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gettis-gh&label=Profile%20views&color=0e75b6&style=flat" alt="gettis-gh" />
