@@ -1,6 +1,6 @@
 <h2 align="center">Hi there! I'm Gettis 👋</h2>
 <h4 align="center">I'm not just a developer, I'm an artist</h4>
-<div style="text-align: center; font-style: italic; color: gray; max-width: 600px; margin: 20px auto;">
+<div align="center" style="text-align: center; font-style: italic; color: gray; max-width: 600px; margin: 20px auto;">
   since <strong>January 2025</strong> | Five months in this amazing world!
 </div>
 
