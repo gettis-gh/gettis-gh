@@ -9,10 +9,10 @@
 
 ### 👨‍💻 About Me
 
+* 🙃 Starter. Not so much to showcase
 * Looking for teams and communities to be in.
 * Hope to make friends I can code with.
 * I'm just starting, but I'd rather make mistakes on my own path than succeed on yours.
-* 🙃 Starter. Not so much to showcase
 * 🔭 Currently working on:
   - **Getti's TicTac** *(private project)*
   - **Getti's JS Guide** *(public project)* [Check the page](https://gettis-gh.github.io/gettis-js-guide/)
