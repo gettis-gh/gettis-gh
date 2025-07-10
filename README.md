@@ -85,29 +85,27 @@ I’m building my path as a **Fullstack JavaScript/TypeScript developer** with a
 ---
 
 ### 🛠️ Languages & Tools
-
-* Languages:
-  * General Purpose:
-    - Rust
-    - Python
-    - Julia
-    - Java (learning)
-  * Web Development:
-    * Frontend:
-      - HTML5
-      - CSS3
-      - SASS
-      - JavaScript
-      - TypeScript
-      - React
-      - Vue.js
-    * Backend:
-      - Node.js
-      - Express.js
-      - NestJS
-    * Databases & Storage:
-      - SQLite
-      - Redis
+* General Purpose:
+  - Rust
+  - Python
+  - Julia
+  - Java (learning)
+* Web Development:
+  * Frontend:
+    - HTML5
+    - CSS3
+    - SASS
+    - JavaScript
+    - TypeScript
+    - React
+    - Vue.js
+  * Backend:
+    - Node.js
+    - Express.js
+    - NestJS
+  * Databases & Storage:
+    - SQLite
+    - Redis
 
 * Automation & Testing:
   - Puppeteer
