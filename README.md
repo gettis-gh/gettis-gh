@@ -162,7 +162,7 @@ Here’s how I see and live my path in software development:
 ### 🧠 Quotes that match my mindset
 > *"Programs must be written for people to read, and only incidentally for machines to execute."*  
 > — **Harold Abelson**
----
+
 > *"Code is poetry."*  
 > — **Automattic**
 
