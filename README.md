@@ -19,12 +19,9 @@
 * 🎨 Fullstack JS/TS developer with a creative and experimental mindset, strong in frontend, and a functional, handmade approach to backend.
 
 * 🔭 Currently working on:
-  - **Getti's Renderer** - An experimental 3d renderer wrote in rust. *(public project)* [Check the repo](https://github.com/gettis-gh/gettis-r)
-  - **Getti's TicTac** – An experimental game inspired by TicTacToe. *(private project)*
-  - **Getti's JS Guide** – My personal JavaScript course based on my experience. *(public project)* [Check the page](https://gettis-gh.github.io/gettis-js-guide/)
-  - **Getti's Language DevKit** – The DevKit for my own experimental programming language. *(public project)* [Check the repo](https://github.com/gettis-gh/GettisPLDK)
-  - **Stellar Panel** – An easy-to-use business management tool. *(private project)*
-  - **Stellar Chat** – An experimental chat exploring new ways to communicate. *(public project)* (paused for now — planning to improve it soon)
+  - **Getti's Car Game** - A sandbox and social car game. *(public project)* [Check the repo](https://github.com/gettis-gh/gettis-cg)
+  - **Getti's TicTac** – An experimental game inspired by TicTacToe. *(private project)* 
+  - **Getti's Chat** – An experimental chat exploring new ways to communicate. *(public project)* (paused for now — planning to improve it soon)
 
 * What’s Stellar? It’s the more serious and professional side of my projects.
 * 🌱 Currently learning: **WebSocket, project structure, CSS, Markdown, GitHub Pages**
