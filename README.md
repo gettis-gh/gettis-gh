@@ -24,7 +24,6 @@
   - **Getti's Chat** – An experimental chat exploring new ways to communicate. *(public project)* (paused for now — planning to improve it soon)
 
 * What’s Stellar? It’s the more serious and professional side of my projects.
-* 🌱 Currently learning: **WebSocket, project structure, CSS, Markdown, GitHub Pages**
 
 > I see programming as an art.
 
