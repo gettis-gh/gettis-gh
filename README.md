@@ -16,14 +16,12 @@
 * Looking to join teams and communities.
 * Hoping to make friends to code and create with.
 
-* 🎨 Fullstack JS/TS developer with a creative and experimental mindset, strong in frontend, and a functional, handmade approach to backend.
+* 🎨 Fullstack JS/TS developer, mainly.
 
 * 🔭 Currently working on:
   - **Getti's Car Game** - A sandbox and social car game. *(public project)* [Check the repo](https://github.com/gettis-gh/gettis-cg)
   - **Getti's TicTac** – An experimental game inspired by TicTacToe. *(private project)* 
   - **Getti's Chat** – An experimental chat exploring new ways to communicate. *(public project)* (paused for now — planning to improve it soon)
-
-* What’s Stellar? It’s the more serious and professional side of my projects.
 
 > I see programming as an art.
 
@@ -31,16 +29,13 @@
 
 ### 🌟 My Areas and Likes
 
-Here’s how I see and live my path in software development:
-
 - **Main Areas:**
   - 🌐 Web development
   - 🖥️ Desktop software
   - 🎮 Game development (where I started)
 
-- **Focus and passion:**
+- **Focus:**
   - WebDev as my main career path
-  - Building software that’s useful, easy to use, and unique
 
 - **My approach:**
   - 💡 Innovate instead of copy
@@ -51,8 +46,7 @@ Here’s how I see and live my path in software development:
 - **Philosophy:**
   - I believe code reflects the thinker.
   - *"Code is as clear as the mind of its writer."*
-  - To me, programming is a kind of art —  
-    every function is a brushstroke, every repo a canvas.
+  - To me, programming is a kind of art.
 
 ---
 
