@@ -85,6 +85,7 @@
 ---
 
 ### 🛠️ Languages & Tools
+> These are **NOT** technologies I master, just some that I have used and work with
 
 #### 🚀 General Purpose
 - Rust
