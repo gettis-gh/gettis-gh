@@ -22,9 +22,15 @@
   > These repositories are outdated, abandoned. I've been having no time to update my github.
   
   > The projects are still alive tho, it's just the repositories.
-  - **Getti's Car Game** - A sandbox and social car game. *(public project)* [Check the repo](https://github.com/gettis-gh/gettis-cg)
-  - **Getti's TicTac** – An experimental game inspired by TicTacToe. *(private project)* 
-  - **Getti's Chat** – An experimental chat exploring new ways to communicate. *(public project)* (paused for now — planning to improve it soon)
+  - **Getti's Car Game** - A sandbox and social car game. *(public project)* 
+    - [Check the repo](https://github.com/gettis-gh/gettis-cg)
+    - Project Website link **soon**.
+  - **Getti's TicTac** – An experimental game inspired by TicTacToe. *(private project)*
+    - [Check the repo](https://github.com/gettis-gh/gettis-ttt)
+    - Project Website link **soon**.
+  - **Getti's Chat** – An experimental chat exploring new ways to communicate. *(public project)*
+    - [Check the repo](https://github.com/gettis-gh/gettis-chat)
+    - Project Website link **soon**.
 
 > I see programming as an art.
 
