@@ -41,12 +41,9 @@
   - 💡 Innovate instead of copy
   - ✍️ Write clean, clear, and expressive code
   - 🔧 Use a modular structure — small, reusable, easy-to-understand parts
-  - 🚀 Agile mindset — fast iterations and constant learning
+  - 🚀 Emergent design — start simple, expand on demand
 
-- **Philosophy:**
-  - I believe code reflects the thinker.
-  - *"Code is as clear as the mind of its writer."*
-  - To me, programming is a kind of art.
+> To me, programming is a kind of art.
 
 ---
 
@@ -89,6 +86,7 @@
 - C
 - Bash
 - TypeScript (server-side)
+- Haskell
 
 #### 🌐 Web Development
 
