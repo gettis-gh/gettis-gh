@@ -19,7 +19,8 @@
 * 🎨 Fullstack JS/TS developer, mainly.
 
 * 🔭 Currently working on:
-  > These repositories are outdated and abandoned, I've been having no time to update my github.
+  > These repositories are outdated, abandoned. I've been having no time to update my github.
+  > The projects are still alive tho, it's just the repositories.
   - **Getti's Car Game** - A sandbox and social car game. *(public project)* [Check the repo](https://github.com/gettis-gh/gettis-cg)
   - **Getti's TicTac** – An experimental game inspired by TicTacToe. *(private project)* 
   - **Getti's Chat** – An experimental chat exploring new ways to communicate. *(public project)* (paused for now — planning to improve it soon)
