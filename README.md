@@ -88,25 +88,26 @@
 > I’ve grouped them by experience level so it's easier to understand what I actually use, what I'm learning, and what I’ve only experimented with.
 
 #### ✅ Regular Use
-- **Languages**: JavaScript, TypeScript, Python, Bash  
-- **Frontend**: HTML5, CSS3, SASS, React, Vue.js, Tailwind CSS, Vite  
+- **Languages**: JavaScript, TypeScript, Python  
+- **Frontend**: HTML5, CSS3, React  
 - **Backend**: Node.js, Express.js, NestJS  
-- **Databases**: SQLite, PostgreSQL, Redis, Prisma ORM  
+- **Databases**: SQLite, PostgreSQL, Prisma ORM, Sequelize ORM
 - **Automation & Testing**: Puppeteer, Playwright, Jest, Postman  
-- **DevOps & Tools**: Git, Docker, GitHub Actions, VSCode, ESLint, Prettier  
+- **DevOps & Tools**: Git, VSCode, ESLint, Prettier  
 - **Networking**: WebSocket, Socket.IO, tRPC  
 
 #### 🧪 Exploring / Learning
-- **Languages**: Rust, Julia, Haskell, Go  
+- **Languages**: Rust, Haskell, Go
 - **Frontend**: Next.js, Storybook  
 - **Backend**: Fastify, Koa.js, Deno, Flask, GraphQL  
-- **Databases**: MongoDB, Supabase, Firebase Realtime DB  
+- **Databases**: MongoDB, Supabase, Firebase Realtime DB, Redis  
 - **Automation & Testing**: Selenium, Vitest, Pytest  
-- **DevOps & Tools**: Makefiles  
+- **DevOps & Tools**: Makefiles, Docker, GitHub Actions
 - **Networking**: WebRTC, MQTT  
 
 #### 💡 Past Use / Experiments
-- **Languages**: Java, C  
+- **Languages**: Java, C, Bash, Julia
+- **Frontend**: SASS, Vue.js, Tailwind CSS, Vite
 - **Backend**: Actix  
 
 ---
