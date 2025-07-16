@@ -94,7 +94,7 @@
 - **Databases**: SQLite, PostgreSQL, Prisma ORM, Sequelize ORM
 - **Automation & Testing**: Puppeteer, Playwright, Jest, Postman  
 - **DevOps & Tools**: Git, VSCode, ESLint, Prettier  
-- **Networking**: WebSocket, Socket.IO, tRPC  
+- **Networking**: WebSocket  
 
 #### 🧪 Exploring / Learning
 - **Languages**: Rust, Haskell, Go
@@ -103,7 +103,7 @@
 - **Databases**: MongoDB, Supabase, Firebase Realtime DB, Redis  
 - **Automation & Testing**: Selenium, Vitest, Pytest  
 - **DevOps & Tools**: Makefiles, Docker, GitHub Actions
-- **Networking**: WebRTC, MQTT  
+- **Networking**: WebRTC, MQTT, Socket.IO, tRPC
 
 #### 💡 Past Use / Experiments
 - **Languages**: Java, C, Bash, Julia
