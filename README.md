@@ -18,9 +18,7 @@
 * 🎨 Fullstack JS developer, mainly.
 
 * 🔭 Currently working on:
-  > These repositories are outdated, abandoned. I've been having no time to update my github.
-  
-  > The projects are still alive tho, it's just the repositories.
+  > Some repositories may be outdated — I've continued developing the projects locally or elsewhere
   
   - **Getti's Car Game** - A sandbox and social car game. *(public project)* 
     - [Check the repo](https://github.com/gettis-gh/gettis-cg)
