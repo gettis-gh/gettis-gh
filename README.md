@@ -12,16 +12,16 @@
 
 ### 👨‍💻 About Me
  
-* 🚀 Just getting started — learning and building something new every day.
+* 🚀 Learning and building something new every day.
 * Looking to join teams and communities.
 * Hoping to make friends to code and create with.
-
-* 🎨 Fullstack JS/TS developer, mainly.
+* 🎨 Fullstack JS developer, mainly.
 
 * 🔭 Currently working on:
   > These repositories are outdated, abandoned. I've been having no time to update my github.
   
   > The projects are still alive tho, it's just the repositories.
+  
   - **Getti's Car Game** - A sandbox and social car game. *(public project)* 
     - [Check the repo](https://github.com/gettis-gh/gettis-cg)
     - Project Website link **soon**.
