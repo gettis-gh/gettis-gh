@@ -83,9 +83,9 @@
 ---
 
 ### 🛠️ Languages & Tools
-> These are not necessarily technologies I master — just ones I’ve worked with.
-> 
-> Some are part of my main stack, others I’m currently learning, and a few I’ve only used briefly or experimented with.
+> ⚠️ **Disclaimer:**  
+> I don’t master all of these.  
+> I’ve grouped them by experience level so it's easier to understand what I actually use, what I'm learning, and what I’ve only experimented with.
 
 #### 🚀 General Purpose
 - Rust
