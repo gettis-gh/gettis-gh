@@ -87,76 +87,27 @@
 > I don’t master all of these.  
 > I’ve grouped them by experience level so it's easier to understand what I actually use, what I'm learning, and what I’ve only experimented with.
 
-#### 🚀 General Purpose
-- Rust
-- Python
-- Julia
-- Java
-- Go
-- C
-- Bash
-- TypeScript (server-side)
-- Haskell
+#### ✅ Regular Use
+- **Languages**: JavaScript, TypeScript, Python, Bash  
+- **Frontend**: HTML5, CSS3, SASS, React, Vue.js, Tailwind CSS, Vite  
+- **Backend**: Node.js, Express.js, NestJS  
+- **Databases**: SQLite, PostgreSQL, Redis, Prisma ORM  
+- **Automation & Testing**: Puppeteer, Playwright, Jest, Postman  
+- **DevOps & Tools**: Git, Docker, GitHub Actions, VSCode, ESLint, Prettier  
+- **Networking**: WebSocket, Socket.IO, tRPC  
 
-#### 🌐 Web Development
+#### 🧪 Exploring / Learning
+- **Languages**: Rust, Julia, Haskell, Go  
+- **Frontend**: Next.js, Storybook  
+- **Backend**: Fastify, Koa.js, Deno, Flask, GraphQL  
+- **Databases**: MongoDB, Supabase, Firebase Realtime DB  
+- **Automation & Testing**: Selenium, Vitest, Pytest  
+- **DevOps & Tools**: Makefiles  
+- **Networking**: WebRTC, MQTT  
 
-##### 🎨 Frontend
-- HTML5  
-- CSS3  
-- SASS  
-- JavaScript  
-- TypeScript  
-- React  
-- Vue.js  
-- Next.js  
-- Tailwind CSS  
-- Vite  
-- Storybook  
-
-##### ⚙️ Backend
-- Node.js  
-- Express.js  
-- NestJS  
-- Fastify  
-- Koa.js  
-- Deno  
-- Actix  
-- Flask  
-
-##### 🗃️ Databases & Storage
-- SQLite  
-- Redis  
-- PostgreSQL  
-- MongoDB  
-- Prisma ORM  
-- Supabase  
-- Firebase Realtime DB  
-
-#### 🤖 Automation & Testing
-- Puppeteer  
-- Selenium  
-- Playwright  
-- Jest  
-- Vitest  
-- Pytest  
-- Postman  
-
-#### ⚙️ DevOps & Tools
-- Git  
-- Docker  
-- GitHub Actions  
-- Makefiles  
-- VSCode  
-- ESLint & Prettier  
-
-#### 🌐 Networking & Real-time
-- Express  
-- WebSocket  
-- Socket.IO  
-- tRPC  
-- GraphQL  
-- WebRTC  
-- MQTT  
+#### 💡 Past Use / Experiments
+- **Languages**: Java, C  
+- **Backend**: Actix  
 
 ---
 
