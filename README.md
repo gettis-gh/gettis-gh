@@ -101,17 +101,17 @@
 - **Languages**: JavaScript, TypeScript, Python  
 - **Frontend**: HTML5, CSS3, React  
 - **Backend**: Node.js, Express.js, NestJS  
-- **Databases**: SQLite, PostgreSQL, Prisma ORM, Sequelize ORM
-- **Automation & Testing**: Puppeteer, Playwright, Jest, Postman  
-- **DevOps & Tools**: Git, VSCode, ESLint, Prettier  
-- **Networking**: WebSocket  
+- **Databases**: SQLite, PostgreSQL, Prisma ORM, Sequelize ORM  
+- **Automation & Testing**: Postman  
+- **DevOps & Tools**: Git, VSCode, GH Cli  
+- **Networking**: WebSocket
 
 #### 🧪 Exploring / Learning
 - **Languages**: Rust, Haskell, Go
 - **Frontend**: Next.js, Storybook  
 - **Backend**: Fastify, Koa.js, Deno, Flask, GraphQL  
 - **Databases**: MongoDB, Supabase, Firebase Realtime DB, Redis  
-- **Automation & Testing**: Selenium, Vitest, Pytest  
+- **Automation & Testing**: Selenium, Vitest, Pytest, Puppeteer, Playwright, Jest
 - **DevOps & Tools**: Makefiles, Docker, GitHub Actions
 - **Networking**: WebRTC, MQTT, Socket.IO, tRPC
 
