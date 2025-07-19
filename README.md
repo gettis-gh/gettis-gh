@@ -3,14 +3,15 @@
 <div align="center" style="text-align: center; font-style: italic; color: gray; max-width: 600px; margin: 20px auto;">
   since <strong>January 2025</strong>
 </div>
-> Y cuando llegue tu momento (porque va a llegar), vas a...
-> **ChatGPT**
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gettis-gh&label=Profile%20views&color=0e75b6&style=flat" alt="gettis-gh" />
 </p>
 
 ---
+
+> Y cuando llegue tu momento (porque va a llegar), vas a...
+> **ChatGPT**
 
 ### 👨‍💻 About Me
  
