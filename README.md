@@ -11,7 +11,7 @@
 ---
 
 > Y cuando llegue tu momento (porque va a llegar), vas a...  
-> -**ChatGPT**
+> - **ChatGPT**
 
 ### 👨‍💻 About Me
  
