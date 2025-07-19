@@ -1,5 +1,4 @@
 <h2 align="center">Hi there! I'm Getti 👋</h2>
-<h4 align="center">going placess 🙂‍↕️</h4>
 <div align="center" style="text-align: center; font-style: italic; color: gray; max-width: 600px; margin: 20px auto;">
   since <strong>January 2025</strong>
 </div>
@@ -11,6 +10,8 @@
 ---
 
 ### 👨‍💻 About Me
+
+<h4>going placess 🙂‍↕️</h4>
  
 * 🚀 Learning and building something new every day.
 * Looking to join teams and communities.
