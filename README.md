@@ -29,8 +29,8 @@
   - **Getti's Chat** – An experimental chat exploring new ways to communicate. *(public project)*
     - [Check the repo](https://github.com/gettis-gh/gettis-chat)
     - Project Website link **soon**.
-
-> I see programming as an art.
+   
+> To me, programming is a kind of art.
 
 ---
 
@@ -61,8 +61,6 @@
   - ✍️ Write clean, clear, and expressive code
   - 🔧 Use a modular structure — small, reusable, easy-to-understand parts
   - 🚀 Emergent design — start simple, expand on demand
-
-> To me, programming is a kind of art.
 
 ---
 
