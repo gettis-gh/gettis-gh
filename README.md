@@ -71,7 +71,7 @@
 - React
 
 #### 🔹 Backend
-- Node.js
+- Node.js & Bun
 - Express.js, NestJS  
 - Websocket
 
