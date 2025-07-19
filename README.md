@@ -15,7 +15,7 @@
 > ❤️‍🩹
 
 > **Sanso**  
-> "Pero lo importante no es lo que digan los demás, sino lo que tú decidas hacer por ti"
+> "Pero lo importante no es lo que digan los demás, sino lo que tú decidas hacer por ti"  
 > 🥹
 
 ### 👨‍💻 About Me
