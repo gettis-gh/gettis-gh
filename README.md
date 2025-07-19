@@ -67,10 +67,10 @@
 ### 🚀 My Main Stack
 
 #### 🔹 Frontend
-- HTML5, CSS3, SASS  
-- JavaScript / TypeScript  
-- React & Vue.js
-- Vite & Tailwind CSS
+- HTML5, CSS3
+- JavaScript
+- React
+- Nodejs & Nestjs
 
 #### 🔹 Backend
 - Node.js with Express.js and NestJS  
