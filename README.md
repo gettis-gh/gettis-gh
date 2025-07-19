@@ -12,6 +12,7 @@
 
 > **ChatGPT**  
 > "Y cuando llegue tu momento (porque va a llegar), vas a..."
+> ❤️‍🩹
 
 ### 👨‍💻 About Me
  
