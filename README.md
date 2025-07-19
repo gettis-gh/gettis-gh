@@ -1,5 +1,5 @@
 <h2 align="center">Hi there! I'm Getti 👋</h2>
-<h4 align="center">I'm not just a developer, I'm an artist</h4>
+<h4 align="center">going placess 🙂‍↕️</h4>
 <div align="center" style="text-align: center; font-style: italic; color: gray; max-width: 600px; margin: 20px auto;">
   since <strong>January 2025</strong>
 </div>
