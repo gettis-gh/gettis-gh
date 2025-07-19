@@ -67,28 +67,22 @@
 ### 🚀 My Main Stack
 
 #### 🔹 Frontend
-- HTML5, CSS3
-- JavaScript
+- HTML5, CSS3, JavaScript
 - React
-- Nodejs & Nestjs
 
 #### 🔹 Backend
-- Node.js with Express.js and NestJS  
-- REST APIs with modular architecture  
-- Real-time systems using WebSocket and Socket.IO
+- Node.js
+- Express.js, NestJS  
+- Websocket
 
 #### 🔹 Database & Storage
 - SQLite 
 - PostgreSQL
-- Redis
 - Prisma & Sequelize ORM
 
 #### 🔹 Tools & Workflow
 - Git + GitHub
-- Docker  
-- Puppeteer, Playwright & Selenium 
-- VSCode with ESLint & Prettier
-- GitHub Actions
+- VSCode
 
 ---
 
