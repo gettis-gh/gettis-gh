@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-<h3>going placess 🙂‍↕️</h3>
+<h3 align="center" style="text-align: center;">going placess 🙂‍↕️</h3>
  
 * 🚀 Learning and building something new every day.
 * Looking to join teams and communities.
