@@ -14,6 +14,10 @@
 > "Y cuando llegue tu momento (porque va a llegar), vas a..."  
 > ❤️‍🩹
 
+> **Sanso**  
+> "Pero lo importante no es lo que digan los demás, sino lo que tú decidas hacer por ti"
+> 🥹
+
 ### 👨‍💻 About Me
  
 * 🚀 Learning and building something new every day.
