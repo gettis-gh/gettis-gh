@@ -23,14 +23,8 @@
 * 🔭 Currently working on:
   > Some repositories may be outdated — I've continued developing the projects locally or elsewhere
   
-  - **Getti's Car Game** - A sandbox and social car game. *(public project)* 
-    - [Check the repo](https://github.com/gettis-gh/gettis-cg)
-    - Project Website link **soon**.
-  - **Getti's TicTac** – An experimental game inspired by TicTacToe. *(private project)*
-    - [Check the repo](https://github.com/gettis-gh/gettis-ttt)
-    - Project Website link **soon**.
-  - **Getti's Chat** – An experimental chat exploring new ways to communicate. *(public project)*
-    - [Check the repo](https://github.com/gettis-gh/gettis-chat)
+  - **Nothing** - This is the template i use, im not working on anything. *(public project)* 
+    - [Check the repo](https://github.com/gettis-gh)
     - Project Website link **soon**.
    
 > To me, programming is a kind of art.
