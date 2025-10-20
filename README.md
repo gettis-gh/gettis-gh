@@ -106,5 +106,5 @@
 > — **Harold Abelson**
 
 > *"Code is poetry."*  
-> — **Automattic**
+> — **Who knows**
 
