@@ -9,7 +9,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
  
 * Fullstack Web developer, mainly.
 
