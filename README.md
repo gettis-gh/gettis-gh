@@ -20,8 +20,8 @@
   > Some repositories may be outdated — I've continued developing the projects locally or elsewhere
   
   - **Nothing** - This is the template i use, im not working on anything. *(public project)* 
-    - [Check the repo](https://github.com/gettis-gh)
-    - Project Website link **soon**.
+    - [Check the repo](...)
+    - [Project Website link **soon**](...).
    
 > To me, programming is a kind of art.
 
