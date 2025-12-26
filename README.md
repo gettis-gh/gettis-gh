@@ -49,21 +49,19 @@
 
 #### 🔹 Frontend
 - HTML5, CSS3, JavaScript
-- React
+- React, Typescript, Tailwind
 
 #### 🔹 Backend
-- Node.js & Bun
+- Node.js
 - Express.js, NestJS  
 - Websocket
 
 #### 🔹 Database & Storage
-- SQLite 
-- PostgreSQL
+- PostgreSQL & SQLite
 - Prisma & Sequelize ORM
 
 #### 🔹 Tools & Workflow
 - Git + GitHub
-- VSCode
 
 ---
 
