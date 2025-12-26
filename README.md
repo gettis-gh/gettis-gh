@@ -1,4 +1,4 @@
-<h2 align="center">Hi there! I'm Getti 👋</h2>
+<h2 align="center">You know it's Getti 🙂‍↕️</h2>
 <div align="center" style="text-align: center; font-style: italic; color: gray; max-width: 600px; margin: 20px auto;">
   since <strong>January 2025</strong>
 </div>
