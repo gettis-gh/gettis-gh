@@ -11,9 +11,9 @@
 
 ### 👨‍💻 About Me
  
-* 🎨 Fullstack Web developer, mainly.
+* Fullstack Web developer, mainly.
 
-* 🔭 Currently working on:
+* Currently working on:
   > Some repositories may be outdated — I've continued developing the projects locally or elsewhere
   
   - **Nothing** - This is the template i use, im not working on anything. *(public project)* 
@@ -24,7 +24,7 @@
 
 ---
 
-### 🌟 My Areas
+### My Areas
 
 - **Main Areas:**
   - 🌐 Web development
@@ -35,14 +35,14 @@
   - WebDev as my main career path
 
 - **My approach:**
-  - 💡 Innovate instead of copy
-  - ✍️ Write clean, clear, and expressive code
-  - 🔧 Use a modular structure — small, reusable, easy-to-understand parts
-  - 🚀 Emergent design — start simple, expand on demand
+  - Innovate instead of copy
+  - Write clean, clear, and expressive code
+  - Use a modular structure — small, reusable, easy-to-understand parts
+  - Emergent design — start simple, expand on demand
 
 ---
 
-### 🚀 My Main Stack
+### My Main Stack
 
 #### 🔹 Frontend
 - HTML5, CSS3, JavaScript
@@ -62,12 +62,12 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 > ⚠️ **Disclaimer:**  
 > I don’t master all of these.  
 > I’ve grouped them by experience level so it's easier to understand what I actually use, what I'm learning, and what I’ve only experimented with.
 
-#### ✅ Regular Use
+#### Regular Use
 - **Languages**: JavaScript, TypeScript, Python  
 - **Frontend**: HTML5, CSS3, React  
 - **Backend**: Node.js, Express.js, NestJS  
@@ -76,7 +76,7 @@
 - **DevOps & Tools**: Git, GH Cli  
 - **Networking**: WebSocket
 
-#### 🧪 Exploring / Learning
+#### Exploring / Learning
 - **Languages**: Rust, Haskell, Go
 - **Frontend**: Tailwind CSS, Next.js  
 - **Backend**: Fastify, Koa.js, Deno, Flask, GraphQL  
@@ -85,7 +85,7 @@
 - **DevOps & Tools**: Makefiles, Docker, GitHub Actions
 - **Networking**: WebRTC, MQTT, Socket.IO, tRPC
 
-#### 💡 Past Use / Experiments
+#### Past Use / Experiments
 - **Languages**: Java, C, Bash, Julia
 - **Frontend**: SASS, Vue.js, Vite
 - **Backend**: Actix  
