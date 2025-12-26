@@ -64,7 +64,7 @@
 
 #### Regular Use
 - **Languages**: JavaScript, TypeScript, Python  
-- **Frontend**: HTML5, CSS3, React  
+- **Frontend**: HTML5, CSS3, React, Vite
 - **Backend**: Node.js, Express.js, NestJS  
 - **Databases**: IndexDB, SQLite, PostgreSQL, Prisma ORM, Sequelize ORM  
 - **Testing**: Postman  
@@ -79,9 +79,4 @@
 - **Automation & Testing**: Selenium, Vitest, Pytest, Puppeteer, Playwright, Jest
 - **DevOps & Tools**: Makefiles, Docker, GitHub Actions
 - **Networking**: WebRTC, MQTT, Socket.IO, tRPC
-
-#### Past Use / Experiments
-- **Languages**: Java, C, Bash, Julia
-- **Frontend**: SASS, Vue.js, Vite
-- **Backend**: Actix  
 
