@@ -31,14 +31,10 @@
   - 🖥️ Desktop software
   - 🎮 Game development (where I started)
 
-- **Focus:**
-  - WebDev as my main career path
-
 - **My approach:**
-  - Innovate instead of copy
+  - Emergent design — start simple, expand on demand
   - Write clean, clear, and expressive code
   - Use a modular structure — small, reusable, easy-to-understand parts
-  - Emergent design — start simple, expand on demand
 
 ---
 
