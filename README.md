@@ -71,7 +71,7 @@
 - **DevOps & Tools**: Git, GH Cli  
 - **Networking**: WebSocket
 
-#### Exploring / Learning
+#### Learning
 - **Languages**: Rust, Haskell, Go
 - **Frontend**: Tailwind CSS, Next.js  
 - **Backend**: Fastify, Koa.js, Deno, Flask, GraphQL  
