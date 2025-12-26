@@ -61,7 +61,6 @@
 ### All Languages & Tools
 > ⚠️ **Disclaimer:**  
 > I don’t master all of these.  
-> I’ve grouped them by experience level so it's easier to understand what I actually use, what I'm learning, and what I’ve only experimented with.
 
 #### Regular Use
 - **Languages**: JavaScript, TypeScript, Python  
