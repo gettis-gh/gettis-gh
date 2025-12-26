@@ -11,9 +11,6 @@
 
 ### 👨‍💻 About Me
  
-* 🚀 Learning and building something new every day.
-* Looking to join teams and communities.
-* Hoping to make friends to code and create with.
 * 🎨 Fullstack Web developer, mainly.
 
 * 🔭 Currently working on:
@@ -23,7 +20,7 @@
     - [Check the repo]()
     - [Project Website link **soon**]().
    
-> To me, programming is a kind of art.
+> Programming is art.
 
 ---
 
