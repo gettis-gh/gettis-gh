@@ -14,7 +14,7 @@
 * 🚀 Learning and building something new every day.
 * Looking to join teams and communities.
 * Hoping to make friends to code and create with.
-* 🎨 Fullstack JS developer, mainly.
+* 🎨 Fullstack Web developer, mainly.
 
 * 🔭 Currently working on:
   > Some repositories may be outdated — I've continued developing the projects locally or elsewhere
