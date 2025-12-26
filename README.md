@@ -27,7 +27,7 @@
 
 ---
 
-### 🌟 My Areas and Likes
+### 🌟 My Areas
 
 - **Main Areas:**
   - 🌐 Web development
